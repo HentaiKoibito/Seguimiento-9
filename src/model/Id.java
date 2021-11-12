@@ -1,5 +1,5 @@
 package model;
 
-public class Id {
-
+public enum Id {
+	TI, CC, PP, CE;
 }
